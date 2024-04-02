@@ -1,14 +1,14 @@
+<img src="https://github.com/beatrizleite/beatrizleite/assets/45816089/546a3ba3-3c04-44ef-b685-f6770bab7be1" min-width="400px" max-width="400px" width="400px" align="right" >
 
+## ✍️About me
 
-### ✍️About me... 
+### - 👨‍💻 Full Stack Developer
 
-- 👨‍💻 Full Stack Developer
-
-- 🚀 About Me<br>
+### - 🚀 About Me<br>
 Hello! I'm Beatriz and I'm a Computer Systems Engineering student @ Universidade Fernando Pessoa set to get my undergraduate by 2024.
 Additionally, I'm taking a few classes from the Mobile Computing Master also @ UFP.
 
-- ⚙️ Technical Skills<br>
+### - ⚙️ Technical Skills<br>
   - Backend: Java, Maven, Spring Boot, Hibernate
   - Frontend: HTML/CSS, JSP, JS
   - Database: Microsoft SQL Server, PostgreSQL
